@@ -1,6 +1,6 @@
 # Maareeye Business Management System 🚀
 
-![Maareeye Logo](assets/Images/Maareeye%20Logo.jpg)
+<img src="assets/Images/Maareeye%20Logo.jpg" width="250" alt="Maareeye Logo">
 
 > **A comprehensive Point of Sale (POS), Inventory, and Business Management SaaS application.**
 
