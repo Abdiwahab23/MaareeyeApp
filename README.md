@@ -52,22 +52,11 @@ Here is a look at the Maareeye Management System in action:
 
 ---
 
-## 🚀 How to Run Locally
+## 🔒 Source Code
 
-1. **Prerequisites:** Install [XAMPP](https://www.apachefriends.org/index.html).
-2. **Clone the Repo:**
-   ```bash
-   git clone https://github.com/yourusername/maareeyev1.git
-   ```
-3. **Move to XAMPP:** Place the folder inside `C:/xampp/htdocs/`.
-4. **Database Setup:** 
-   - Start Apache and MySQL in XAMPP.
-   - Go to `http://localhost/phpmyadmin`.
-   - Create a database named `maareeye_db`.
-   - Import the `database-migration/` or `.sql` file.
-5. **Configuration:** 
-   - Rename `config/db.example.php` to `config/db.php` (if applicable) and add your local database credentials.
-6. **Access:** Open `http://localhost/maareeyev1` in your browser.
+The source code for this project is closed-source as it is an actively running commercial SaaS application. This repository serves purely as a portfolio showcase of the interface and features. 
+
+If you are interested in a technical deep-dive or have any inquiries, please test the live application above!
 
 ---
 
