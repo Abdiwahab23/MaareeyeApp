@@ -4,6 +4,8 @@
 
 > **A comprehensive Point of Sale (POS), Inventory, and Business Management SaaS application.**
 
+### 🔗 **[Test the Live App Here: maareeyeapp.com](https://maareeyeapp.com)**
+
 ---
 
 ## 💡 What Problem Does This Solve?
