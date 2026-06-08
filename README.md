@@ -1,6 +1,6 @@
 # Maareeye Business Management System 🚀
 
-![Logo](EVC-PLUS-Logo.webp) <!-- You can replace this with your actual logo file -->
+![Maareeye Logo](assets/Images/Maareeye%20Logo.jpg)
 
 > **A comprehensive Point of Sale (POS), Inventory, and Business Management SaaS application.**
 
@@ -29,18 +29,14 @@ Running a modern business requires tracking sales, managing stock, and monitorin
 
 ## 📸 Screenshots & Demo
 
-*(Add your screenshots here! Save your images in the main folder or an `assets` folder and link them below)*
+Here is a look at the Maareeye Management System in action:
 
 <details>
 <summary>Click to view screenshots</summary>
 
-| Dashboard | POS Interface |
+| Showcase | App Interface |
 |:---:|:---:|
-| ![Dashboard placeholder](https://via.placeholder.com/400x250?text=Dashboard+Screenshot) | ![POS placeholder](https://via.placeholder.com/400x250?text=POS+Screenshot) |
-
-| Inventory List | Financial Reports |
-|:---:|:---:|
-| ![Inventory placeholder](https://via.placeholder.com/400x250?text=Inventory+Screenshot) | ![Reports placeholder](https://via.placeholder.com/400x250?text=Reports+Screenshot) |
+| ![Showcase Image](assets/Images/maareye%20showcase%20image%201.png) | ![App Pic](assets/Images/Maareeyeapp%20app%20pic.png) |
 
 </details>
 
