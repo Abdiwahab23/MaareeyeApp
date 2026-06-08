@@ -38,7 +38,7 @@ Here is a look at the Maareeye Management System in action:
 
 | Showcase | App Interface |
 |:---:|:---:|
-| ![Showcase Image](assets/Images/maareye%20showcase%20image%201.png) | ![App Pic](assets/Images/Maareeyeapp%20app%20pic.png) |
+| <img src="assets/Images/maareye%20showcase%20image%203.png" width="400" alt="Showcase"> | <img src="assets/Images/here%20app%20image%202.png" width="400" alt="App Interface"> |
 
 </details>
 
